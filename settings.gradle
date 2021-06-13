@@ -1,0 +1,2 @@
+rootProject.name = "EbrahemCalc"
+include ':app'
